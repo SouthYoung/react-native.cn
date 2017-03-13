@@ -19,7 +19,7 @@ var styles = StyleSheet.create({
     fontFamily: 'Cochin',
   },
   titleText: {
-    fontSize: 20,
+    fontSize: 30,
     fontWeight: 'bold',
   },
 };
